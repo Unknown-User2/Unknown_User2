@@ -2,7 +2,6 @@
   <img alt="me" width="100" hight="100" href="https://avatars.githubusercontent.com/u/46464404?v=4"><h2>< Unknown-User2 /></h2>
   <h3>Cool peeps</h3>
   <h4><a href="https://github.com/AcaiBerii">AcaiBerii - A great dude</a></h4>
-  <h4>
   <br><br>
 
   <h3>A bit about me</h3>
@@ -17,7 +16,7 @@
   <img alt="All the lannguages I used sorted by most used" src="https://raw.githubusercontent.com/Unknown-User2/github-stats/master/generated/languages.svg">
   <br><br>
 
-  <img href="https://avatars.githubusercontent.com/u/81579876?s=200&v=4">
+  <img alt="E G G" width="100" hight="100" href="https://avatars.githubusercontent.com/u/81579876?s=200&v=4">
   <br>
-  <h2><a alt="E G G" width="100" hight="100" href="https://github.com/EggOrg">E G G</a></h2>
+  <h3><a href="https://github.com/EggOrg">E G G</a></h3>
 </div>
