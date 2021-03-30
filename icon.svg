@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
 	<style>
-		.title {animation: opac 5s linear infinite;}
+		.title {animation: opac 5s ease infinite;}
     @keyframes opac {
       0% {
         opacity: 0%;
@@ -13,9 +13,5 @@
       }
     }
 	</style>
-    <foreignObject class="node" x="0" y="0" width="200" height="50">
-    <body xmlns="http://www.w3.org/1999/xhtml">
-        <img class="title" src="https://avatars.githubusercontent.com/u/46464404?v=4">
-    </body>
-  </foreignObject>
+  <img class="title" src="https://avatars.githubusercontent.com/u/46464404?v=4">
 </svg>
