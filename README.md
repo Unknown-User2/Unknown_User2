@@ -15,4 +15,9 @@
   <br><br>
   <img alt="Stats based on things repo things" src="https://raw.githubusercontent.com/Unknown-User2/github-stats/master/generated/overview.svg">
   <img alt="All the lannguages I used sorted by most used" src="https://raw.githubusercontent.com/Unknown-User2/github-stats/master/generated/languages.svg">
+  <br><br>
+
+  <img href="https://avatars.githubusercontent.com/u/81579876?s=200&v=4">
+  <br>
+  <h2><a src="https://github.com/EggOrg">E G G</a></h2>
 </div>
