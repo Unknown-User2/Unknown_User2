@@ -16,5 +16,6 @@
   <img alt="All the lannguages I used sorted by most used" src="https://raw.githubusercontent.com/Unknown-User2/github-stats/master/generated/languages.svg">
   <br><br>
 
+  <img alt="E G G" width="100" hight="100" src="https://avatars.githubusercontent.com/u/81579876?s=200&v=4">
   <h3><a href="https://github.com/EggOrg">E G G</a></h3>
 </div>
