@@ -6,8 +6,8 @@
   <br><br>
 
   <h3>A bit about me</h3>
-  <h4>I code in mainly in C++<br>
-  I like cats<br>
+  <h4>I like cats<br>
+  I code in mainly in C++<br>
   I use she/her pronouns</h4>
   <br><br>
 
