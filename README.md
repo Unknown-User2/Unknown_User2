@@ -3,6 +3,6 @@
   <h3>Cool peeps</h3>
   <h4><a src="https://github.com/AcaiBerii">AcaiBerii - A great dude</a></h4>
   <br><br>
-  <img alt="My stats based on things like how many repos ive visted" src="https://raw.githubusercontent.com/Unknown-User2/github-stats/master/generated/overview.svg">
+  <img alt="My stats based on things repo things" src="https://raw.githubusercontent.com/Unknown-User2/github-stats/master/generated/overview.svg">
   <img alt="My used lannguages sorted by most used" src="https://raw.githubusercontent.com/Unknown-User2/github-stats/master/generated/languages.svg">
 </div>
