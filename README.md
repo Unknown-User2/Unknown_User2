@@ -13,7 +13,7 @@
   <h3>Stats:</h3>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=unknown-user2&show_icons=true&theme=onedark">
-  <img src="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-user2&layout=compact&theme=onedark">
   <br><br>
 
   <img alt="E G G" width="100" hight="100" src="https://avatars.githubusercontent.com/u/81579876?s=200&v=4">
