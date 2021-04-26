@@ -12,9 +12,9 @@
 
   <h3>Stats:</h3>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=unknown-user2&show_icons=true&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api?username=unknown-user2&show_icons=true&theme=tokyonight">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-user2&layout=compact&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-user2&layout=compact&theme=tokyonight">
   <br><br>
 
   <img alt="E G G" width="100" hight="100" src="https://avatars.githubusercontent.com/u/81579876?s=200&v=4">
