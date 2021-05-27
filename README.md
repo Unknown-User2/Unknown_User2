@@ -26,7 +26,7 @@
     Stellar Lumens address: GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37 <br>
     Stellar Lumens memo: 2443846943
   </h4>
+  <br><br>
   
-  <img alt="E G G" width="100" hight="100" src="https://avatars.githubusercontent.com/u/81579876?s=200&v=4">
-  <h3><a href="https://github.com/EggOrg">E G G</a></h3>
+  <a href="https://github.com/EggOrg"><img alt="E G G" width="100" hight="100" src="https://avatars.githubusercontent.com/u/81579876?s=200&v=4"></a>
 </div>
