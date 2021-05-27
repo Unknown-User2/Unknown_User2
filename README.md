@@ -13,10 +13,19 @@
   <h3>Stats:</h3>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=unknown-user2&show_icons=true&theme=cobalt">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-user2&layout=compact&theme=cobalt">
   <br><br>
 
+  <h3>You can give me cryptos if you want</h3>
+  <h4>
+    Bitcoin: 38SeVTtBdnpbUoDLs7eCU2aUghJsbHWMfJ<br>
+    Ethereum: 0x7F0c4D9C6E9AC82296D7dFC1e3e6cD00AF07487e<br>
+    Bitcoin Cash: qr3l0e7t5j4sqef6aq3a6the8fft6pvrtscdshkkvr<br>
+    Lightcoin: MKqNc88dsMXhJnruBy4znsPy8Agj38ihYn <br>
+    Stellar Lumens address: GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37 Stellar Lumens memo: 2443846943<br>
+    USD Coin: 0x4D39Fb5BD7711643227dde8fD9112fDfaa8df6F7
+  </h4>
+  
   <img alt="E G G" width="100" hight="100" src="https://avatars.githubusercontent.com/u/81579876?s=200&v=4">
   <h3><a href="https://github.com/EggOrg">E G G</a></h3>
 </div>
