@@ -19,7 +19,7 @@
   </details>
   
   <details>
-    <summary>Github stats</summary>
+    <summary>Stats</summary>
     <img src="https://komarev.com/ghpvc/?username=Unknown-User2&color=brightgreen&style=flat-square"> <br>
     <img src="https://github-readme-stats.vercel.app/api?username=unknown-user2&show_icons=true&theme=cobalt">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-user2&layout=compact&theme=cobalt">
