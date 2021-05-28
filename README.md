@@ -30,9 +30,9 @@
   <h4>
     Bitcoin: 38SeVTtBdnpbUoDLs7eCU2aUghJsbHWMfJ <br>
     Lightcoin: MKqNc88dsMXhJnruBy4znsPy8Agj38ihYn <br>
+    Bitcoin Cash: qr3l0e7t5j4sqef6aq3a6the8fft6pvrtscdshkkvr <br>
     USD Coin: 0x4D39Fb5BD7711643227dde8fD9112fDfaa8df6F7 <br>
     Ethereum: 0x7F0c4D9C6E9AC82296D7dFC1e3e6cD00AF07487e <br>
-    Bitcoin Cash: qr3l0e7t5j4sqef6aq3a6the8fft6pvrtscdshkkvr <br>
     Stellar Lumens address: GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37 <br>
     Stellar Lumens memo: 2443846943
   </h4>
