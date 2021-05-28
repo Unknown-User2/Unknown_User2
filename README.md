@@ -14,7 +14,7 @@
     <summary>Languages</summary>
     <h4>
       learned: C, C++, Python<br>
-      learning: Java
+      learning: Java, Javascript
     </h4>
   </details>
   
