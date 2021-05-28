@@ -4,15 +4,24 @@
   
   <details>
     <summary>A bit about me</summary>
-    <h4>I like cats<br>
-    I use she/her pronouns<br>
-    I code in mainly in C and C++ and a bit of Python</h4>
+    <h4>
+      like cats<br>
+      I use she/her pronouns<br>
+      I code in mainly in C and C++ and a bit of Python</h4>
   </details>  
   <br>
   
   <details>
+    <summary>Languages</summary>
+    <h4>
+      learning: Java<br>
+      learned: C, C++, Python
+    </h4>
+  </details>
+  
+  <details>
     <summary>Github stats</summary>
-    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=Unknown-User2&color=brightgreen&style=flat-square"> <br>
     <img src="https://github-readme-stats.vercel.app/api?username=unknown-user2&show_icons=true&theme=cobalt">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-user2&layout=compact&theme=cobalt">
   </details>
