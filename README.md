@@ -8,8 +8,7 @@
       like cats<br>
       I use she/her pronouns<br>
       I code in mainly in C and C++ and a bit of Python</h4>
-  </details>  
-  <br>
+  </details>
   
   <details>
     <summary>Languages</summary>
@@ -25,7 +24,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=unknown-user2&show_icons=true&theme=cobalt">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-user2&layout=compact&theme=cobalt">
   </details>
-  <br>
   
   <details>
   <summary>You can give me cryptos if you want</summary>
