@@ -15,7 +15,7 @@
     <h4>
       learned: C, C++, Python<br>
       learning: Javascript, Lua
-    </h4>`
+    </h4>
   </details>
   
   <details>
