@@ -13,8 +13,8 @@
   <details>
     <summary>Languages</summary>
     <h4>
-      learned: C, C++, Python<br>
-      learning: Javascript, Lua
+      learned: C, C++, Python, Javascript<br>
+      learning: Lua
     </h4>
   </details>
   
