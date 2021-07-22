@@ -5,8 +5,8 @@
   <details>
     <summary>A bit about me</summary>
     <h4>
-      I use she/her pronouns<br>
-      like cats
+      I use all pronouns<br>
+      im haxor
     </h4>
   </details>
   
