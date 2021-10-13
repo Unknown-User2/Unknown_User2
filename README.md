@@ -1,7 +1,4 @@
 <div align="center">
-  <h4>Thanks to <a href="https://github.com/AcaiBerii">AcaiBerii</a> for making my pfp</h4>
-  <br>
-  
   <details>
     <summary>A bit about me</summary>
     <h4>
