@@ -22,6 +22,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-user2&layout=compact&theme=cobalt" width=350>
   </details>
   <br>
-  
-  <a href="https://github.com/EggOrg"><img alt="E G G" width="100" hight="100" src="https://avatars.githubusercontent.com/u/81579876?s=200&v=4"></a>
 </div>
