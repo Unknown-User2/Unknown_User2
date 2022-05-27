@@ -10,7 +10,7 @@
   <details>
     <summary>Languages</summary>
     <h4>
-      learned: C, C++, Python, Javascript<br>
+      learned: C, C++, x86 assembly, 6502 assembly, Python, Javascript, lua<br>
       learning: none
     </h4>
   </details>
