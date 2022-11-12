@@ -17,9 +17,9 @@
   
   <details>
     <summary>Stats</summary>
-    <img src="https://komarev.com/ghpvc/?username=Unknown-User2&color=brightgreen&style=flat-square"> <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=unknown-user2&show_icons=true&theme=cobalt" width=350>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-user2&layout=compact&theme=cobalt" width=350>
+    <img src="https://komarev.com/ghpvc/?username=z3roco01&color=brightgreen&style=flat-square"> <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=z3roco01&show_icons=true&theme=cobalt" width=350>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3roco01&layout=compact&theme=cobalt" width=350>
   </details>
   <br>
 </div>
