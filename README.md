@@ -4,7 +4,7 @@
     <h4>
       All/any pronouns</br>
       My Discord is: <code>z3roco01</code></br>
-      I like low level programming in c and assembly.
+      I like low level programming in c and assembly and some java.
     </h4>
   </details>
   
