@@ -2,7 +2,8 @@
   <details>
     <summary>A bit about me</summary>
     <h4>
-      All/any pronouns</br>
+      look at my <a href="https://zerocool.nekoweb.org">website</a> !!
+      she/they/it/pup + any neos</br>
       My Discord is: <code>z3roco01</code></br>
       I like low level programming in c and assembly and some java.
     </h4>
