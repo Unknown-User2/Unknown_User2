@@ -2,7 +2,7 @@
   <details>
     <summary>A bit about me</summary>
     <h4>
-      look at my <a href="https://zerocool.nekoweb.org">website</a> !!
+      look at my <a href="https://zerocool.nekoweb.org">website</a> !!</br>
       she/they/it/pup + any neos</br>
       My Discord is: <code>z3roco01</code></br>
       I like low level programming in c and assembly and some java.
